@@ -1,6 +1,3 @@
-Here’s the full explanation as GitHub Markdown:
-
-```markdown
 # Big O Notation in Data Structures and Algorithms
 
 Big O notation is a concept in computer science used to describe the efficiency of algorithms, especially as data size increases. In Data Structures and Algorithms (DSA), understanding Big O is essential for evaluating algorithms, understanding their limitations, and selecting the best solution for a given problem.
@@ -62,4 +59,3 @@ Here are some Python examples to illustrate different time complexities:
 
 ### Summary
 Big O notation is a foundational concept for understanding algorithm efficiency and is crucial in coding interviews, performance analysis, and real-world software development. As you practice DSA, it’s helpful to recognize Big O for various functions and think critically about how code performs as input sizes grow.
-```
